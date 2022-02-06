@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: aqua ;
+    margin: 20px;
+    padding: 15px;
+    border-radius: 12px;
+    
+}
+h1 {
+    color: blueviolet;
+    text-align: center;
+}
+footer {
+    background-color: cadetblue;
+}
+nav a {
+text-decoration: none;
+background-color: darkmagenta ;
+border-radius: 15px;
+padding: 10px;
+margin: 10px ;
+color: white;
+}
+.qwerty{
+    background-color: tomato;
+}
+.w {
+    background-color: tomato;
+    border-radius: 10px;
+    padding: 10px;
+}
+.e {
+   color: blue; 
+}
+.g {
+   border-radius: 5px; 
+}
+.j {
+    text-decoration: none;
+background-color: darkmagenta ;
+border-radius: 15px;
+padding: 10px;
+margin: 10px ;
+color: white;
+}
+.c {
+    text-decoration: none;
+background-color: darkmagenta ;
+border-radius: 15px;
+padding: 10px;
+margin: 10px ;
+color: white;
+}
